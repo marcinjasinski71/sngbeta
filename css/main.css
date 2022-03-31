@@ -313,14 +313,6 @@ header .fa-chevron-down {
   color: #f77308;
 }
 
-.team {
-  position: relative;
-  background-image: url(../img/conference_room.jpg);
-  background-size: cover;
-  background-attachment: fixed;
-  z-index: 0;
-}
-
 .team h2 {
   color: #ddd;
 }
@@ -393,7 +385,7 @@ header .fa-chevron-down {
 
 .contact {
   position: relative;
-  background-image: url(/img/contact-bg.jpg);
+  background-image: url("../img/contact.jpg");
   background-position: bottom;
   background-attachment: fixed;
   background-size: cover;
@@ -474,7 +466,7 @@ header .fa-chevron-down {
     height: 82px;
   }
   .aboutus-hero {
-    background-image: url(..//img/platform-big.jpg);
+    background-image: url("../img/platform-big.jpg");
   }
   .prices .price-info {
     font-size: 18px;
